@@ -1,0 +1,25 @@
+.header{
+  padding: 10px;
+  text-align: center;
+  background: #0000ff;
+  color: white;
+  font-size: 30px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.skills{
+    width: 300px;
+    margin: 50px;
+    border: 10px solid blue;
+    text-align: center;
+}
+.hobbies{
+    width: 300px;
+    margin: 50px;
+    border: 10px solid blue;
+    text-align: center;
+}
